@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\views\\_404\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:views\\_404\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\views\\singlepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:views\\singlepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\controllers\\_404controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:controllers\\_404controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\controllers\\singlepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:controllers\\singlepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|c:\\users\\narim\\desktop\\webapplicationtask14\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6392A0B4-83E4-4061-95D7-B13FBBAF89DC}|WebApplicationTASK14.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Wishlist\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Wishlist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Wishlist\\Index.cshtml",
+              "RelativeToolTip": "Views\\Wishlist\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAIYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T16:00:28.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T15:55:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAKUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T15:52:32.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Singlepage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Singlepage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Singlepage\\Index.cshtml",
+              "RelativeToolTip": "Views\\Singlepage\\Index.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T15:51:26.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAywKgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T15:51:19.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAAAPkBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T15:51:06.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\_404\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\_404\\Index.cshtml",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\_404\\Index.cshtml",
+              "RelativeToolTip": "Views\\_404\\Index.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T15:51:00.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:39:29.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "Controllers\\WishlistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:37:33.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T15:23:19.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:34:07.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:39:11.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_404Controller.cs",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\_404Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\_404Controller.cs",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\_404Controller.cs",
+              "RelativeToolTip": "Controllers\\_404Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:48:02.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SinglepageController.cs",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\SinglepageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SinglepageController.cs",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\SinglepageController.cs",
+              "RelativeToolTip": "Controllers\\SinglepageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:49:08.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\WebApplicationTASK14\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:24:02.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
