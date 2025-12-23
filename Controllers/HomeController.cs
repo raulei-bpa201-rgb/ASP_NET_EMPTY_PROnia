@@ -18,9 +18,10 @@ namespace WebApplicationTASK14.Controllers
             //_context.Slides.AddRange(slides);
             //_context.SaveChanges();
 
-            
+            List<Slide> slides = _context.Slides.ToList();
 
-            return View();
+
+            return View(slides);
         }
     }
 }
