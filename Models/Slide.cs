@@ -1,4 +1,5 @@
-﻿using WebApplicationTASK14.Models.Base;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using WebApplicationTASK14.Models.Base;
 namespace WebApplicationTASK14.Models
 {
     public class Slide:BaseEntity
@@ -8,5 +9,9 @@ namespace WebApplicationTASK14.Models
         public string Description { get; set; }
         public string Image { get; set; }
         public int Order { get; set; }
+
+        [NotMapped]
+
+        public IFormFile Photo { get; set; }
     }
 }

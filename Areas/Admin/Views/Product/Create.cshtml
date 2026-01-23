@@ -1,0 +1,47 @@
+﻿@using WebApplicationTASK14.Areas.Admin.ViewModels.Product
+@using WebApplicationTASK14.Models
+@model CreateProductVM
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Basic form elements</h4>
+            <p class="card-description">
+                Basic form elements
+            </p>
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="exampleInputEmail3">Title</label>
+                    <input asp-for="Name" class="form-control" id="exampleInputEmail3" placeholder="Email">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Discount</label>
+                    <input asp-for="Price" class="form-control" id="exampleInputPassword4" placeholder="Password">
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Catagory</label>
+                    <select asp-for="CategoryId">
+                        @foreach (Category category in Model.Categorys)
+                        {
+                            <option value="@category.Id">@category.Name</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputCity1">Order</label>
+                    <input asp-for="SKU" class="form-control" id="exampleInputCity1" placeholder="Location">
+                    <span asp-validation-for="SKU" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleTextarea1">Description</label>
+                    <textarea asp-for="Description" class="form-control" id="exampleTextarea1" rows="4"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+                <button class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

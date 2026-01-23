@@ -1,0 +1,62 @@
+﻿@using WebApplicationTASK14.Areas.Admin.ViewModels.Product
+@using WebApplicationTASK14.Models
+@model List<GetProductVM>
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Bordered table</h4>
+            <p class="card-description">
+                Add class <code>.table-bordered</code>
+            </p>
+            <div class="table-responsive pt-3">
+                <a asp-controller="product" asp-action="create" class="btn btn-success m-3">Add Product</a>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                ID
+                            </th>
+                            <th>
+                                Name
+                            </th>
+                            <th>
+                                SKU
+                            </th>
+                            <th>
+                                CatagoryName
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (GetProductVM productVM in Model)
+                        {
+                            <tr>
+                                <td>
+                                    <img src="~/assets/images/website-images/@productVM.Image" alt="Alternate Text" />
+                                </td>
+                                <td>
+                                    @productVM.Id
+                                </td>
+                                <td>
+                                    @productVM.Name
+                                </td>
+                                <td>
+                                    @productVM.CategoryName
+                                </td>
+                                <td>
+                                    <a asp-controller="Slide" asp-action="Update" asp-route-id="@productVM.Id" class="btn btn-warning">Update</a>
+                                    <a asp-controller="Catagory" asp-action="Detail" asp-route-id="@productVM.Id" class="btn btn-primary">Detail</a>
+                                    <a asp-action="Delete" asp-route-id="@productVM.Id" class="btn btn-danger">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
